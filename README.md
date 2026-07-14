@@ -1,0 +1,2 @@
+# banffgoldhotel
+Static site: banffgoldhotel
